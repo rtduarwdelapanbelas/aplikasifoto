@@ -153,7 +153,7 @@ export const PrintA5Modal: React.FC<PrintA5ModalProps> = ({
       {previewDataUrl &&
         createPortal(
           <div id="a5-print-portal">
-            <img src={previewDataUrl} alt="Cetak A5 LensaKlip" />
+            <img src={previewDataUrl} alt="Cetak A5 Qurtubi PhotoKlip" />
           </div>,
           document.body
         )}

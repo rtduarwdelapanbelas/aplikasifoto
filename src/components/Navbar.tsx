@@ -25,7 +25,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           className="text-lg font-bold tracking-tight text-white whitespace-nowrap shrink-0 flex items-center gap-2 hover:opacity-90 transition-opacity"
         >
           <span className="w-2.5 h-2.5 rounded-full bg-amber-400"></span>
-          <span>LensaKlip Studio</span>
+          <span>Qurtubi PhotoKlip</span>
         </a>
 
         {/* Zone 2: 4 nav links, 1-2 word labels, single-line */}

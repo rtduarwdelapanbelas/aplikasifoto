@@ -485,7 +485,7 @@ export default function App() {
             <span className="w-2.5 h-2.5 rounded-full bg-amber-400"></span>
             <div>
               <span className="font-bold text-base tracking-tight text-white block leading-tight">
-                LensaKlip
+                Qurtubi PhotoKlip
               </span>
               <span className="text-[10px] text-amber-300 font-mono tracking-wider">
                 UKURAN CETAK A5 (148 x 210 mm)

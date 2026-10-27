@@ -57,7 +57,7 @@ export async function exportFrameToImage(
   ctx.font = '14px "Plus Jakarta Sans", sans-serif';
   ctx.fillStyle = 'rgba(0, 0, 0, 0.2)';
   ctx.textAlign = 'right';
-  ctx.fillText('LensaKlip • Format Cetak A5 (148 x 210 mm)', baseWidth - 40, baseHeight - 30);
+  ctx.fillText('Qurtubi PhotoKlip • Format Cetak A5 (148 x 210 mm)', baseWidth - 40, baseHeight - 30);
 
   const dataUrl = canvas.toDataURL('image/png', 0.95);
   return dataUrl;

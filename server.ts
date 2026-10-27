@@ -674,7 +674,7 @@ app.get('/print/:id', (req: Request, res: Response) => {
     `);
   }
 
-  const title = photo?.title || 'Foto A5 LensaKlip';
+  const title = photo?.title || 'Foto A5 Qurtubi PhotoKlip';
 
   const html = `<!DOCTYPE html>
 <html lang="id">
@@ -846,10 +846,10 @@ app.get('/print/:id', (req: Request, res: Response) => {
 
 // Health check endpoints for Vercel and monitoring
 app.get('/api/health', (_req: Request, res: Response) => {
-  res.json({ status: 'ok', server: 'LensaKlip', time: new Date().toISOString() });
+  res.json({ status: 'ok', server: 'Qurtubi PhotoKlip', time: new Date().toISOString() });
 });
 app.get('/health', (_req: Request, res: Response) => {
-  res.json({ status: 'ok', server: 'LensaKlip', time: new Date().toISOString() });
+  res.json({ status: 'ok', server: 'Qurtubi PhotoKlip', time: new Date().toISOString() });
 });
 
 // Vite middleware in dev or static serving in prod
@@ -873,7 +873,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`🚀 LensaKlip Server berjalan di http://0.0.0.0:${PORT}`);
+    console.log(`🚀 Qurtubi PhotoKlip Server berjalan di http://0.0.0.0:${PORT}`);
   });
 }
 
