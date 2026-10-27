@@ -1,0 +1,10 @@
+{
+  "name": "LensaKlip - AI Template Photo Editor",
+  "description": "Aplikasi editor foto berbasis template polaroid, film strip, dan jurnal dengan AI visual analyzer untuk rekomendasi caption estetik serta warna bingkai serasi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "photo_sunset_demo",
+    "title": "Senja di Ujung Pantai",
+    "description": "Mentari pamit, meninggalkan riak emas dalam dada.",
+    "imageSrc": "/src/assets/images/sample_sunset_polaroid_1793077827913.jpg",
+    "template": "polaroid_classic",
+    "bgColor": "#FAF8F5",
+    "textColor": "#2B2B2B",
+    "font": "caveat",
+    "createdAt": "2026-10-26T21:40:00.000Z",
+    "author": "Siswa Kelas 9A",
+    "dimensions": "A5 (148 x 210 mm)"
+  },
+  {
+    "id": "photo_cafe_demo",
+    "title": "Secangkir Inspirasi Pagi",
+    "description": "Kopi hangat menyapa bait-bait renungan pagi ini.",
+    "imageSrc": "/src/assets/images/sample_cafe_journal_1793077829246.jpg",
+    "template": "journal_kraft",
+    "bgColor": "#EADBC8",
+    "textColor": "#3E2F20",
+    "font": "typewriter",
+    "createdAt": "2026-10-26T20:15:00.000Z",
+    "author": "Guru Pembina",
+    "dimensions": "A5 (148 x 210 mm)"
+  },
+  {
+    "id": "photo_street_demo",
+    "title": "Lorong Cerita Lawas",
+    "description": "Di antara lembaran tua, waktu sejenak mengheningkan langkah.",
+    "imageSrc": "/src/assets/images/sample_street_film_1793077829977.jpg",
+    "template": "film_strip",
+    "bgColor": "#141416",
+    "textColor": "#F5ECE3",
+    "font": "courier",
+    "createdAt": "2026-10-26T19:30:00.000Z",
+    "author": "Ekskul Jurnalistik",
+    "dimensions": "A5 (148 x 210 mm)"
+  },
+  {
+    "id": "photo_art_demo",
+    "title": "Geometri Keheningan",
+    "description": "Ruang lapang, keheningan yang membebaskan isi kepala.",
+    "imageSrc": "/src/assets/images/sample_minimal_art_1793077829794.jpg",
+    "template": "minimalist_white",
+    "bgColor": "#FFFFFF",
+    "textColor": "#1A1A1A",
+    "font": "cormorant",
+    "createdAt": "2026-10-26T18:00:00.000Z",
+    "author": "Tim Kreatif Sekolah",
+    "dimensions": "A5 (148 x 210 mm)"
+  }
+]

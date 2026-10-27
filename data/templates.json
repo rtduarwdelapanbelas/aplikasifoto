@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tpl_emas_elegan",
+    "name": "Bingkai Emas Elegan A5",
+    "description": "Template bingkai klasik dengan aksen emas mewah untuk foto momen istimewa dan piagam kenangan.",
+    "frameImage": "",
+    "layoutType": "polaroid",
+    "defaultBg": "#FCF9F2",
+    "defaultFont": "cinzel",
+    "defaultTextColor": "#B45309",
+    "defaultFontSize": 24,
+    "defaultFontStyle": "bold",
+    "defaultTextAlign": "center",
+    "createdAt": "2026-10-27T07:00:00.000Z",
+    "author": "Admin"
+  },
+  {
+    "id": "tpl_kenangan_sekolah",
+    "name": "Kenangan Sekolah SMP A5",
+    "description": "Desain rapi berwibawa dengan nuansa navy dan tipografi tegas untuk album foto angkatan dan perpisahan.",
+    "frameImage": "",
+    "layoutType": "polaroid",
+    "defaultBg": "#F0F4F8",
+    "defaultFont": "montserrat",
+    "defaultTextColor": "#1E3A8A",
+    "defaultFontSize": 22,
+    "defaultFontStyle": "bold",
+    "defaultTextAlign": "center",
+    "createdAt": "2026-10-27T07:15:00.000Z",
+    "author": "Admin"
+  }
+]
